@@ -112,4 +112,4 @@ We reserve the right, at our sole discretion, to update, change or replace any p
 
 ## SECTION 16 - CONTACT INFORMATION
 
-Questions about the Terms of Service should be sent to us at [my-minifigs-contact@bricknotfound.com](mailto:my-minifigs-contact@bricknotfound.com).
+Questions about the Terms of Service should be sent to us at [my-minifigs@bricknotfound.com](mailto:my-minifigs@bricknotfound.com).
