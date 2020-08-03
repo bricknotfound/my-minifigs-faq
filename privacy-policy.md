@@ -30,4 +30,4 @@ No. The Application has no facility for collecting, transmitting, or maintaining
 
 ## Do you comply with the Children’s Online Privacy Protection Act (COPPA)
 
-Yes. We do not solicit nor gather any data from children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us [my-minifigs-contact@bricknotfound.com](mailto:my-minifigs-contact@bricknotfound.com).
+Yes. We do not solicit nor gather any data from children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us [my-minifigs@bricknotfound.com](mailto:my-minifigs@bricknotfound.com).
